@@ -1,4 +1,4 @@
-<h2> 👋 Wlcome to my profile!</h2>
+<h2> 👋 Welcome to my profile!</h2>
 <div align="left">
 Hello, my name is João Morais. I am 22 years old and was born in Coimbra, Portugal.
   
