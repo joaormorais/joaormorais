@@ -11,8 +11,8 @@ I enjoy staying active and can often be found at the gym working on my physical 
 I have a strong mentality and enjoy working towards my goals and objectives.
 </div> 
 
-##  
 
+<h2> 📊 Stats</h2>
 <div align="center">
   <a href="https://github.com/joaormorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaormorais&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -20,10 +20,9 @@ I have a strong mentality and enjoy working towards my goals and objectives.
 
 <div align="center">
   <a href="[https://github.com/joaormorais](https://github.com/anuraghazra/github-readme-stats)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaormorais&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaormorais&layout=compact&theme=onedark"/>
 </div>
-  
-##
+
 
 <h2> ⚙️ Languages that I have worked with</h2>
 <div align="left">
@@ -36,6 +35,7 @@ I have a strong mentality and enjoy working towards my goals and objectives.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 </div> 
 
+  
 <h2> 📡 Connect with me</h2>
 <div align="left">
 <a href="https://instagram.com/joaormorais_"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="45" height="45"/></a>
