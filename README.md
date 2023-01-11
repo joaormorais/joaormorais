@@ -24,7 +24,7 @@ I have a strong mentality and enjoy working towards my goals and objectives.
 </div>
 
 
-<h2> ⚙️ Languages that I have worked with</h2>
+<h2> ⚙️ Languages that I have more experience in</h2>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
