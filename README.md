@@ -2,13 +2,8 @@
 <div align="left">
 Hello, my name is João Morais. I am 22 years old and was born in Coimbra, Portugal.
   
-Portuguese is my mother tongue, but I am also proficient in English and have a basic understanding of French.
-  
 I am currently doing a degree in software engineering and have discovered a passion for programming along the way.
   
-I enjoy staying active and can often be found at the gym working on my physical health and wellness. In addition to taking care of my body, I also have a passion for cars and football.
-  
-I have a strong mentality and enjoy working towards my goals and objectives.
 </div> 
 
 
