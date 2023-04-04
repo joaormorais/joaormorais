@@ -2,7 +2,7 @@
 <div align="left">
 Hello, my name is João Morais. I am 22 years old and was born in Coimbra, Portugal.
   
-I am currently doing a degree in software engineering and have discovered a passion for programming along the way.
+I am currently in an internship at OneSource in order to finish my degree in software engineering and acquire experience.
   
 </div> 
 
