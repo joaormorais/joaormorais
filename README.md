@@ -2,7 +2,7 @@
 <div align="left">
 Hello, my name is João Morais. I am 22 years old and was born in Coimbra, Portugal.
   
-I am currently finishing my degree in software engineering.
+I have a degree in Software Engineering, and I enjoy a lot working with mobile applications.
   
 </div> 
 
