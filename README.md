@@ -22,6 +22,5 @@ This space showcases a mix of my personal projects and academic work, where I ex
   
 <h2> 📡 Connect with me</h2>
 <div align="left">
-<a href="https://instagram.com/joaormorais_"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="45" height="45"/></a>
 <a href="https://www.linkedin.com/in/joaormorais/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="45" height="45"/></a>
 </div> 
