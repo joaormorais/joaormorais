@@ -2,7 +2,7 @@
 <div align="left">
 I'm a 24-year-old Software Engineer from Coimbra, Portugal.
 
-I hold a degree in Software Engineering and am currently working full-time in Java and Liferay development.
+I hold a degree in Software Engineering and am currently working full-time as a fullstack developer.
 
 This space showcases a mix of my personal projects and academic work, where I explore creative solutions and sharpen my skills across various technologies. Feel free to check them out!
 </div> 
