@@ -1,6 +1,6 @@
 <h2> 👋 Hello, I'm João Morais!</h2>
 <div align="left">
-I'm a 25-year-old Software Engineer from Coimbra, Portugal.
+I'm a 25-year-old Software Engineer from Portugal.
 
 I hold a degree in Software Engineering and am currently working full-time as a fullstack developer.
 
