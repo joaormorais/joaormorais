@@ -6,19 +6,6 @@ I hold a degree in Software Engineering and am currently working full-time as a 
 
 This space showcases a mix of my personal projects and academic work, where I explore creative solutions and sharpen my skills across various technologies. Feel free to check them out!
 </div> 
-
-
-<h2> 📊 Stats</h2>
-<div align="center">
-  <a href="https://github.com/joaormorais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaormorais&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <a href="[https://github.com/joaormorais](https://github.com/anuraghazra/github-readme-stats)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaormorais&layout=compact&theme=chartreuse-dark"/>
-</div>
-
   
 <h2> 📡 Connect with me</h2>
 <div align="left">
